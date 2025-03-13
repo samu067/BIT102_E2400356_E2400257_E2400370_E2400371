@@ -210,7 +210,7 @@
 					<br><br>Explore our premium range of supplements, workout gear, and fitness apparel designed to enhance your performance. Whether you’re a beginner or a seasoned athlete, FitLab is your ultimate fitness destination.
 					
 					Join us today and take the first step toward a stronger, healthier you.</p>
-									<a href="login/login.php" class="btn">Start Now</a>
+									<a href="login/index.php" class="btn">Start Now</a>
 					</div>
 				<div class="box img wow slideInRight">
 					<img src="images/start.jpg" alt="start today" />
